@@ -1,0 +1,10 @@
+# Agent private files — don't push to GitHub
+MEMORY.md
+USER.md
+IDENTITY.md
+BOOTSTRAP.md
+memory/
+TOOLS.md
+
+# OpenClaw internals
+.openclaw/
